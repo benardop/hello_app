@@ -2,5 +2,5 @@
 
 This is a sample rails application built using Ruby on Rails framework.
 
-###Author##:
+### Author:
 [*Benard Pacho*](https://github.com/benardop)
